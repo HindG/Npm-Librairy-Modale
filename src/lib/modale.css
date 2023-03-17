@@ -1,6 +1,6 @@
 .modal {
     vertical-align: middle;
-    position: absolute;
+    position: fixed;
     z-index: 2;
     max-width: 500px;
     box-sizing: border-box;
